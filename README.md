@@ -25,7 +25,7 @@ The algorithm looks at the "error" (the distance between where the arm is and wh
 It repeats this process thousands of times in a fraction of a second, mathematical "nudging" the arm closer and closer until the error is zero. 
 
 I am also attaching the working robot looks like so you can see how project actually looks like
-https://chatgpt.com/s/m_6a83353585dc8191ae5b96221e747fd5 robotic image
+file:///C:/Users/sanja/Downloads/ChatGPT%20Image%20Aug%2017,%202026,%2010_22_49%20PM.pdf robotic image
 
 Why this makes a great project
 Most people just download a pre-built software library (like ROS or MoveIt) that acts as a black box to do this math for them.
