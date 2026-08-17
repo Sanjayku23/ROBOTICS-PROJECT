@@ -31,3 +31,4 @@ Why this makes a great project
 Most people just download a pre-built software library (like ROS or MoveIt) that acts as a black box to do this math for them.
 
 By writing this in pure C++, you are demonstrating a deep understanding of mechanical engineering, complex coordinate transformations, and systems programming. You are proving that you can build the foundational math engine that makes automation possible.
+"C:\Users\sanja\Downloads\ChatGPT Image Aug 17, 2026, 10_22_49 PM.pdf"
