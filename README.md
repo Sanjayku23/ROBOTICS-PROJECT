@@ -22,7 +22,10 @@ Instead of trying to solve one massive algebra equation, your code uses a numeri
 
 The algorithm looks at the "error" (the distance between where the arm is and where it needs to be). It calculates the mathematical slope (the Jacobian matrix) and takes a tiny "step" by adjusting the joint angles slightly.
 
-It repeats this process thousands of times in a fraction of a second, mathematical "nudging" the arm closer and closer until the error is zero.
+It repeats this process thousands of times in a fraction of a second, mathematical "nudging" the arm closer and closer until the error is zero. 
+
+I am also attaching the working robot looks like so you can see how project actually looks like
+https://chatgpt.com/s/m_6a83353585dc8191ae5b96221e747fd5 robotic image
 
 Why this makes a great project
 Most people just download a pre-built software library (like ROS or MoveIt) that acts as a black box to do this math for them.
